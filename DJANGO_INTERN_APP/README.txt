@@ -1,6 +1,4 @@
-Perfect! Here’s a clean, well-documented `README.md` you can directly use for your **Django Internship Assignment** repository:
 
----
 
 # 🧠 Django Intern App
 
